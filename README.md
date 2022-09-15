@@ -7,10 +7,10 @@
 
 # Termux-Theme
 
-,rm -rf Termux-Theme,
+`rm -rf Termux-Theme`
 
-,git clone https://github.com/D1PTO-Official/Termux-Theme,
+`git clone https://github.com/D1PTO-Official/Termux-Theme`
 
-,cd Termux-Theme,
+`cd Termux-Theme`
 
-,bash MR.D1PTO.sh,
+`bash MR.D1PTO.sh`
